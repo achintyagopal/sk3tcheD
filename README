@@ -1,0 +1,44 @@
+sk3tcheD 
+
+How to Run (or Build): 
+To use sk3tcheD, you can download the repo and run the built file, sk3tcheD. 
+
+How to Use: To use sk3tcheD, you need to have a LeapMotion. You will need to use one hand over the LeapMotion and the other on the keyboard. Different keyboard commands control what you see and draw. 
+
+The following commands are for drawing: 
+1 - Pencil drawing 
+2 - Draw Line 
+3 - Draw cube 
+4 - Draw sphere 
+5 - Draw cone 
+To draw, you move your hand to where to you want to start drawing, and hold the corresponding button until you are done with the shape. 
+
+The following commands are for moving the screen: 
+Q - move backwards 
+E - move forwards 
+W - move up 
+S - move down 
+A - move left 
+D - move right 
+
+The following commands are miscellaneous: 
+Z - undo pencil drawing 
+Shift-2 - saves a screenshot of what's on the screen (including the menu button, the menu if open, and your hand if over the LeapMotion) 
+Shift-3 - saves a .obj file of your drawing (not including the menu button, the menu, or your hands), which can then be converted into a .stl file with Blender or any other 3d image convertor and can then be printed using a 3D printer. 
+(The first screen of the program shows all the above commands) 
+
+Hand Gestures: 
+Horizontal Swipe - to continue to program from first screen 
+Pinch (thumb to one finger) - grab object (not pencil markings) and move around, moves where your thumb is 
+Squeeze (thumb to more than two fingers) - deletes object (not pencil markings) 
+
+Features To Add: 
+Change color of cone 
+Rotate the screen 
+Open saved .obj file 
+Compatibilty with Oculus Rift 
+
+For images and more details: http://devpost.com/software/sk3tched 
+
+Contact Info: Achintya Gopal 
+agopal2@jhu.edu
